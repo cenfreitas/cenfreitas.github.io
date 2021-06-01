@@ -1,0 +1,38 @@
+MEU PORTFOLIO DE DATA SCIENCE
+	A simple guide to exploratory analisys with python seaborn.
+	A simple guide to sql.
+	How to migrate from sql to pandas
+	How to migrate from sql to pyspark
+	
+	Handling complex calculations with dates;
+		Most times the best way is the simplest.
+
+	A simple guide to exploratory analisys with python seaborn.
+	
+
+
+	FAZER EM PORTUGUES E INGLÊS
+		ANÁLISE EXPLORATÓRIA
+			TEÓRICO
+			PYTHONICO
+	
+	
+		REGRESSÃO LINEAR
+			TRATAR, APLICAR E INTERPRETAR
+			
+		
+		
+		REGRASSÃO LOGÍSTICO
+			TRATAR, APLICAR E INTERPRETAR
+		
+		
+		
+		ARVORES DE DECISÃO
+	
+	ADA BOOSTING
+	RANDOM FOREST
+	GRADIENT BOSTING
+	SUPPORT VECTOR MACHINES
+	PERCEPTRON MULTILAYER DEEP LEARNING
+	
+	
