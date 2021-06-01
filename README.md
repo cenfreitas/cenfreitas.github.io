@@ -1,6 +1,6 @@
 ## Análise exploratória de dados
 
-A análise exploratória de dados é uma abordagem que por meio de estatísticas descritivas e gráficos busca-se trazer informações sobre uma variável ou um conjunto 
+A análise exploratória de dados é uma abordagem que por meio de estatísticas descritivas e gráficos buscaa trazer informações sobre uma variável ou um conjunto 
 de variáveis sendo o começo para um entendimento mais completo de uma base de dados, pois entendendo o comportamento das variáveis em termos de distribuição
 e como se comportam com relação as outras variáveis ganha-se em dois pontos, sendo o primeiro deles como as variáveis se interrelacionama
 e segundo como expressar matematicamente um fenômeno descrito por uma variável. 
